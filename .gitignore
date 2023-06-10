@@ -1,3 +1,4 @@
 node_modules
 kuncidunyo.pem
-iamorsik_credentials.csv
+.env
+.prod.env
